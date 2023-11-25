@@ -117,9 +117,14 @@ def processar_dataset(data):
     board = chess.Board()
 
     for move in data:
-        X.append(tabuleiro_para_matriz(board))
-        y.append(move.uci())
-        board.push(move)
+        #lista de strings com jogadas
+        legal_moves = [str(legal_move) for legal_move in board.legal_moves]
+
+        # Verifica se a jogada atual está entre as jogadas legais
+        if move.uci() in legal_moves:
+            X.append(tabuleiro_para_matriz(board))
+            y.append(move.uci())
+            board.push(move)
 
     return np.array(X), np.array(y)
 
