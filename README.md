@@ -28,9 +28,9 @@ Criação de uma ia para o campeonato Chess Challenge da faculdade iCev
 - **Chess:**<br>
 >_A biblioteca chess em Python proporciona funcionalidades abrangentes para manipulação e análise de jogos de xadrez. Com recursos para representar tabuleiros, gerar movimentos, manipular jogos no formato PGN e integrar-se a motores de xadrez, ela oferece uma base sólida para o desenvolvimento de aplicativos ou algoritmos relacionados ao xadrez em Python._ - [Documentação](https://python-chess.readthedocs.io/en/latest/)
  - **Numpy:**<br>
- >_NumPy é uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes_ - [Documentação](https://numpy.org/doc/stable/)
+ >_NumPy é uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes._ - [Documentação](https://numpy.org/doc/stable/)
  - **TensorFlow:**<br>
- >_TensorFlow é uma biblioteca de código aberto para aprendizado de máquina aplicável a uma ampla variedade de tarefas. É um sistema para criação e treinamento de redes neurais para detectar e decifrar padrões e correlações, análogo à forma como humanos aprendem e raciocinam_ - [Documentação](https://www.tensorflow.org/api_docs)
+ >_TensorFlow é uma biblioteca de código aberto para aprendizado de máquina aplicável a uma ampla variedade de tarefas. É um sistema para criação e treinamento de redes neurais para detectar e decifrar padrões e correlações, análogo à forma como humanos aprendem e raciocinam._ - [Documentação](https://www.tensorflow.org/api_docs)
  - **Pickle:** <br>
  >_O módulo pickle implementa protocolos binários para serializar e desserializar uma estrutura de objeto Python. “Pickling” é o processo pelo qual uma hierarquia de objetos Python é convertida em um fluxo de bytes, e “unpickling” é a operação inversa, em que um fluxo de bytes (de um arquivo binário ou objeto byte ou similar) é convertido de volta em uma hierarquia de objetos._ - [Documentação](https://docs.python.org/pt-br/3/library/pickle.html)
  - **Os**<br>
