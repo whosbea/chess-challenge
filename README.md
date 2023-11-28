@@ -2,11 +2,11 @@
 <h1 align="center">
   <br>
   <br>
- b.IA
+ Autochess 
   <br>
 </h1>
 
-<h4 align="center">Uma ia de xadrez, feita em python, com o uso do stockfish.</h4>
+<h4 align="center">Uma ia de xadrez feita em python, com o uso do stockfish, para um campeonato de xadrez.</h4>
 
 <div align= "center">
   <img src="https://github.com/whosbea/chess-challenge/blob/main/README/imgs/xadrez_banner.jpg?raw=true" alt="Imagem do banner de xadrez" width="600">
